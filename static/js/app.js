@@ -3,7 +3,7 @@
 		irRemote = "2",
 		fullStar = "1",
 	    data = {
-	        rise: "一起看日出",
+	        rise: "有一天，你出现了",
 	        down: "一起看日落",
 		    yours: "有一天，你出现了",
 		    together: "然后",
