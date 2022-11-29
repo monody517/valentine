@@ -3,9 +3,9 @@
 		irRemote = "2",
 		fullStar = "1",
 	    data = {
-	        rise: "有一天，你出现了",
-	        down: "一起看日落",
-		    yours: "有一天，你出现了",
+	        rise: "2022年9月6日",
+	        down: "你出现了",
+		    yours: "近3个月的相处",
 		    together: "然后",
 		    rose: "IOU"
 	    };
